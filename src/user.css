@@ -85,7 +85,6 @@ input {
   --os-handle-bg-active: rgba(var(--spice-rgb-subtext), 0.5);
   --os-handle-bg-hover: rgba(var(--spice-rgb-subtext), 0.7);
   --os-handle-border-radius: 1rem;
-  transition: opacity var(--transition-fast);
   opacity: 0.5;
 }
 
@@ -376,7 +375,7 @@ button.main-playPauseButton-button:hover {
   width: 14px;
   height: 14px;
   opacity: 0;
-  transition: opacity var(--transition-fast), transform var(--transition-fast);
+  transition: none;
 }
 
 /* Search improvements */
@@ -943,11 +942,11 @@ button.main-playPauseButton-button {
 }
 
 .x-progressBar-fillColor {
-  transition: transform 1s cubic-bezier(0.23, 1, 0.32, 1);
+  transform: none;
 }
 
 .progress-bar__slider {
-  transition: left 1s cubic-bezier(0.23, 1, 0.32, 1);
+  transition: none;
 }
 
 .playback-progressbar-isInteractive
