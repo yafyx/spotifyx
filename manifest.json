@@ -1,0 +1,16 @@
+{
+  "name": "spotifyx",
+  "description": "A Minimal Spicetify theme inspired by Shadcn/ui Design",
+  "preview": "assets/images/base.png",
+  "readme": "README-Marketplace.md",
+  "usercss": "https://github.com/yafyx/spotifyx/src/user.css",
+  "schemes": "https://github.com/yafyx/spotifyx/src/color.ini",
+  "include": ["https://github.com/yafyx/spotifyx/src/theme.js"],
+  "authors": [
+    {
+      "name": "yfyx",
+      "url": "https://github.com/yafyx"
+    }
+  ],
+  "tags": ["shadcn", "dark", "minimal"]
+}
