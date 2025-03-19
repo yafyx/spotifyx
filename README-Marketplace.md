@@ -16,7 +16,7 @@
 
 - Latest version of [Spicetify](https://github.com/spicetify/spicetify-cli).
 - Latest version of [Spotify](https://www.spotify.com/download).
-- [Inter](https://fonts.google.com/specimen/Inter) font family, from Google Fonts.
+- [Geist](https://fonts.google.com/specimen/Geist) font family, from Google Fonts.
 
 ## Troubleshooting
 
